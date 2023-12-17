@@ -16,6 +16,8 @@
     "@near-wallet-selector/here-wallet": "^8.5.1",
     "@near-wallet-selector/modal-ui": "^8.5.1",
     "@near-wallet-selector/my-near-wallet": "^8.5.1",
+    "@noir-lang/backend_barretenberg": "^0.17.0",
+    "@noir-lang/noir_js": "^0.17.0",
     "@web3-onboard/core": "^2.20.2",
     "@web3-onboard/injected-wallets": "^2.10.1",
     "@web3-onboard/ledger": "^2.4.6",
