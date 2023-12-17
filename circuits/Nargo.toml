@@ -1,0 +1,8 @@
+[package]
+name = "iamnearby"
+type = "bin"
+authors = [""]
+compiler_version = ">=0.6.0"
+
+[dependencies]
+proof_of_proximity = { path = "./lib/proof-of-proximity" }
