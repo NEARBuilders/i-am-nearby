@@ -1,3 +1,0 @@
-[submodule "circuits"]
-	path = circuits/lib/proof-of-proximity
-	url = https://github.com/elliotBraem/proof-of-proximity
